@@ -11,6 +11,8 @@ Please read this policy carefully to understand our policies and practices regar
  ## What does it store?
 
  => Server IDs for server data (prefixes, settings).
+ 
+  => User IDs and User Names for playlist data (playlists).
 
  => Few parts of message content for the request channel of the users who play song by using the bot or sending a message in the channel which is set as request channel in the bot.
 
